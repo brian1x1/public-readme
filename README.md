@@ -10,7 +10,7 @@ serve many apps.
 
 | Project | Page | URL |
 |---|---|---|
-| Gaelic Keepy Uppy | Privacy policy | https://brian1x1.github.io/public-readme/gaelic-keepy-uppy/ |
+| Gaelic Keepy-Uppy | Privacy policy | https://brian1x1.github.io/public-readme/gaelic-keepy-uppy/ |
 
 ## Layout
 
@@ -40,3 +40,7 @@ For example `gaelic-keepy-uppy/index.html` is served at
 
 - Pages is served from the `main` branch, root (`/`).
 - This is a public repo — don't put anything private here.
+- Keep each privacy policy in step with its app: when an app starts storing
+  new data, adds a permission or a Google/third-party feature, update its page
+  and the *Last updated* date before that build ships, and make sure the Play
+  Console Data safety form still matches.
